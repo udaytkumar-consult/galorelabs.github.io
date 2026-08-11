@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════════════
-   MERIDIAN CONSULTING  |  styles.css
+   GALORE LABS  |  styles.css
    Theme: Blue & Refreshing — inspired by visme.co scheme #23
    Palette: Deep Navy #0a2540 · Sky Blue #00a8e8 · Ice #e8f4fd
             Teal Accent #17becf · White #ffffff · Slate #64748b
@@ -541,6 +541,38 @@ p { color: var(--slate); font-weight: 300; }
 .blog-date { font-size: .82rem; color: var(--slate-light); }
 .blog-card h3 { color: var(--navy); margin-bottom: 12px; font-size: 1.1rem; }
 .blog-card p { font-size: .9rem; flex: 1; margin-bottom: 20px; }
+
+/* ════════════════════════════ FAQ ═══════════════════════════════════ */
+.faq-list { display: flex; flex-direction: column; gap: 14px; max-width: 820px; margin: 0 auto; }
+.faq-item {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--r-md);
+  padding: 0 28px;
+  transition: var(--trans);
+}
+.faq-item[open] { box-shadow: var(--shadow-sm); border-color: var(--ice-deep); }
+.faq-item summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 20px 0;
+  font-weight: 500;
+  color: var(--navy);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+.faq-item summary::-webkit-details-marker { display: none; }
+.faq-item summary::after {
+  content: '+';
+  font-size: 1.4rem;
+  color: var(--blue);
+  transition: var(--trans);
+  flex-shrink: 0;
+}
+.faq-item[open] summary::after { transform: rotate(45deg); }
+.faq-item p { padding-bottom: 20px; font-size: .92rem; }
 
 /* ════════════════════════════ CONTACT ═══════════════════════════════ */
 .contact-section {

@@ -1,0 +1,26 @@
+# Galore Labs
+
+> Galore Labs is a deliberately small, deliberately senior AI-native consulting firm based in Bengaluru, India, working across two integrated practices: Technology Strategy and Marketing & Growth. Every engagement is led directly by a partner with 13+ years of experience; AI handles repetitive execution so partners can go deeper with fewer clients rather than spreading thin.
+
+## Services
+
+- Technology: AI & automation, cloud strategy, DevOps-led digital transformation, cybersecurity & compliance.
+- Marketing & Growth: brand strategy & development, content marketing, social media management, paid advertising, go-to-market planning.
+
+## Leadership
+
+- Uday T. Kumar — Managing Partner, Technology. Formerly Yellow.AI, Zeta, EY. 20+ years leading DevOps and cloud-based digital transformation.
+- Ru Chatterji — Partner, Growth & Marketing. Formerly Peepul Tree, Tanishq.
+
+## Industries served
+
+FinTech, BFSI, Telecom, SaaS, Lifestyle.
+
+## Pages
+
+- [Homepage](https://galorelabs.ai/): services, leadership, client results, FAQ, and contact details.
+- [The Hidden Cost of Technical Debt: A CFO's Guide to Modernisation](https://galorelabs.ai/blog-technical-debt-modernisation.html): a framework for quantifying technical debt in financial terms and building a board-ready modernisation business case.
+
+## Contact
+
+Bengaluru (22nd Cross, HSR Layout, 560102) · hello@galorelabs.ai · +91 95380 67897

@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════════════
-   MERIDIAN CONSULTING  |  script.js
+   GALORE LABS  |  script.js
    Handles: sticky nav, mobile menu, form validation, scroll animations
    ═══════════════════════════════════════════════════════════════════ */
 
